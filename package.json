@@ -1,0 +1,11 @@
+{
+  "name": "crud_app",
+  "version": "1.0.0",
+  "description": "A Basic Node App to try out MongoDB in a CRUD RESTAPI",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Arnab Biswas",
+  "license": "ISC"
+}
